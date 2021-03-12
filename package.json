@@ -1,0 +1,32 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "bufferutil": "^4.0.3",
+    "discord.js": "^12.5.1",
+    "erlpack": "^0.1.3",
+    "ffmpeg": "^0.0.4",
+    "file-system": "^2.2.2",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.5.0",
+    "zlib-sync": "^0.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDias13/Bot-toca-musica-discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MDias13/Bot-toca-musica-discord/issues"
+  },
+  "homepage": "https://github.com/MDias13/Bot-toca-musica-discord#readme",
+  "description": ""
+}
